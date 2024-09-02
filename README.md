@@ -11,7 +11,7 @@ This is a simple Todo List App created by following a tutorial on YouTube. The a
 
 ## Demo
 
-You can see a live demo of the app [here](#).
+You can see a live demo of the app [here](https://camrynbrown.github.io/todo-list/).
 
 ## Technologies Used
 
