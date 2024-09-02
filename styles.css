@@ -118,7 +118,8 @@ ul li span:hover {
     margin-bottom: -50px;
 }
 
-.clear button {
+.clear-button {
+    display: none;
     font-size: 16px;
     padding: 16px 45px;
     margin-top: 20px;
