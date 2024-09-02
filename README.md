@@ -40,6 +40,8 @@ You can see a live demo of the app [here](https://camrynbrown.github.io/todo-lis
 2. Click the "Add" button to add the task to your list.
 3. Click on a task to mark it as complete or incomplete.
 4. Use the delete button to remove tasks from the list.
+5. Use the clear button to remove all tasks from the list.
+    _Clear button only appears when list contains **at least one item**_
 
 ## Credits
 Tutorial by [GreatStack](https://www.youtube.com/watch?v=G0jO8kUrg-I&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=2).
